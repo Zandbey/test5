@@ -25,7 +25,9 @@
 *.la
 *.a
 *.lib
-
+*.ncb
+	*.db
+	*.sdf	
 # Executables
 *.exe
 *.out
